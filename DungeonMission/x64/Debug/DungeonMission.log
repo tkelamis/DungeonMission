@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\Y9GGKH726\Dev\DungeonMission\DungeonMission\main.cpp(10,32): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  DungeonMission.vcxproj -> C:\Users\Y9GGKH726\Dev\DungeonMission\x64\Debug\DungeonMission.exe
